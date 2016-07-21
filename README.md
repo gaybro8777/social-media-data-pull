@@ -1,6 +1,12 @@
 # social-media-data-pull
 Instructions and guidelines for pulling our social media interactions
 
+## Tools I Used
+You don't need these tools, but they certainly help
+1. [Autoenv](https://github.com/kennethreitz/autoenv) for storing variables
+2. [Virtualenvwrapper](http://virtualenvwrapper.readthedocs.io/en/latest/) for isolating Python dependencies
+3. [Facepy](https://github.com/jgorset/facepy) a Python wrapper for the Facebook API
+
 ## Facebook
 Steps to pull social media info from the Facebook API
 
